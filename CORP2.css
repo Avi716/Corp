@@ -1,0 +1,35 @@
+
+       
+           *{box-sizing: border-box;}
+           ul{
+            list-style: none;
+            padding: 0px;
+            margin: 0%;
+            
+        }
+        li{
+           padding: 10px;
+           width: 60%;
+           text-align: center;
+             margin-right:20px ;
+        height: 80px;
+        font-size: 3em;}
+        .logo{
+            font-size: 5em;
+        }.box{ width: 90%;
+        margin: auto;
+        padding: 30px;
+        }
+        li:active {color: tomato;
+        background-color: black;}
+        .cls2{width: 30%;}
+           .col5{ 
+               color: white;
+        background-color: black;   }
+        .col6{color: white;
+        background-color: black;}
+        .col2{color: white;
+        background-color: black;}
+        .cls9{color: white;
+            background-color: black;}
+        
